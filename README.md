@@ -110,3 +110,9 @@ look like this:
 
 The `error` key contains an array of serialized [Diagnostic](https://v2.parceljs.org/plugin-system/logging/#Diagnostic)
 objects.
+
+
+# Acknowledgements
+
+This plugin takes inspiration and borrows from ol-loginov's
+[parcel-reporter-entries](https://github.com/ol-loginov/parcel-reporter-entries), released under the ISC license.
